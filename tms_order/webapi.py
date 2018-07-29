@@ -85,7 +85,7 @@ def postOrder():
                   "SRC_PERIOD":"",
                   "SRC_FLOOR":40.0,
                   "SRC_EMAIL":"20",
-                  "SRC_REMARK":"",
+                  "SRC_REMARK":"50",
                   "DEST_LOCATION_NAME":"test2/lns",
                   "DEST_CONTACT_NAME":"tdg",
                   "DEST_CONTACT_PHONE":"12358465848",
