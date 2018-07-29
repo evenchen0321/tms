@@ -84,7 +84,7 @@ def postOrder():
                   "SRC_ADDRESS":"上海市松江区九亭镇九泾路1501号",
                   "SRC_PERIOD":"",
                   "SRC_FLOOR":40.0,
-                  "SRC_EMAIL":"",
+                  "SRC_EMAIL":"20",
                   "SRC_REMARK":"",
                   "DEST_LOCATION_NAME":"test2/lns",
                   "DEST_CONTACT_NAME":"tdg",
